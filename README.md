@@ -38,18 +38,7 @@ The notebook includes the following exercises:
 
 This project serves as evidence of my early programming foundation. It clearly shows my ability to write functional Python scripts and my commitment to consistent learning. 
 
-As I progress in my AI learnership, I am building upon these fundamentals to develop more complex solutions such as:
-- NLP Chatbots
-- Fraud Detection Models
-- Breast Cancer Detection using Convolutional Neural Networks (CNN)
 
-### Future Improvements
-
-- Add detailed comments to every section
-- Refactor code into reusable functions
-- Implement error handling (try-except)
-- Add a `requirements.txt` file
-- Improve overall code organization and documentation
 
 ---
 
